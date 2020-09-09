@@ -1,5 +1,7 @@
 # OOP [PL]
 Zadania z zajęć laboratoryjnych z przedmiotu pt. "Programowanie Obiektowe" prowadzonych na Wydziale Fizyki i Informatyki Stosowanej AGH. Zajęcia prowadzone przez **dr inż. Alinę Mreńcę-Kolasińską**. Większość zadań oceniona na więcej niż 8/10 punktów. Zapraszam do korzystania, jednak przed użyciem **zalecam jeszcze samodzielnie sprawdzić poprawność**.
+
+Dokładna treść każdego z zadań znajduje się na początku plików o nazwach **"labXX.cpp"** w postaci komentarza. 
  
 | Number | Topic |
 | ------ | -------- |
